@@ -53,8 +53,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/J'S  N Snicker's/Documents/GitHub/defi-dex-swap-sniper-bot/Properties",
-      "program": "c:/Users/J'S  N Snicker's/Documents/GitHub/defi-dex-swap-sniper-bot/Properties/build/Debug/outDebug",
+      "cwd": "c:/Users/J'S  N Snicker's/Documents/GitHub/defi-dex-swap-sniper-bot/Defi-BotAdditional",
+      "program": "c:/Users/J'S  N Snicker's/Documents/GitHub/defi-dex-swap-sniper-bot/Defi-BotAdditional/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
